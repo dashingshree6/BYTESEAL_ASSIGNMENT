@@ -1,2 +1,4 @@
-# BYTESEAL_ASSIGNMENT
+# Dashboard (Web)
+![](./assets/dashboardCP.png)
+
  
