@@ -1,22 +1,22 @@
-# Dashboard
+# Dashboard (Dark + Light)
 ## Web 
 ![](./assets/dashboardCP.png)
 ## Mobile
 ![](./assets/dashboardMB.png)
 
- # Department
+ # Department (Dark + Light)
 ## Web 
 ![](./assets/departmentCP.png)
 ## Mobile
 ![](./assets/departmentMB.png)
 
-# About us
+# About us (Dark + Light)
 ## Web 
 ![](./assets/aboutusCP.png)
 ## Mobile
 ![](./assets/aboutusMB.png)
 
-# Contact
+# Contact (Dark + Light)
 ## Web 
 ![](./assets/contactCP.png)
 ## Mobile
